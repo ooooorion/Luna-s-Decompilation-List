@@ -1,6 +1,6 @@
 # LUNA'S DECOMPILATION LIST
 This is a list of videogame decomps, recomps & static recomps I could find.
-
+-----
 ### NOTES
 For accessibility, they are split into the following categories:
 * Decomps/Recomps (if they are a decompilation or a recompilation
@@ -8,11 +8,10 @@ For accessibility, they are split into the following categories:
 * Human-made/AI-made (if the decomp/recomp is made by a human, or by AI. A decomp must be atleast 50% human-contributed to be considered human-made)
 Naming scheme: [GAME NAME] - [GITHUB AUTHOR]
 If I was wrong on something, feel free to make an issue/pull request!
-
+-----
 **TOTAL SO FAR: 70 (69 decomps/1 recomp, 67 human-made/3 ai-made, across 12 platforms**
-
 **INSPIRED BY [SamidyFR's "Game Decompilations" repository](https://github.com/SamidyFR/Game-Decompilations)! SHOUTOUT TO THEM**
-
+-----
 # DECOMPILATIONS
 ## Nintendo 64
 ### Human-Made
@@ -76,7 +75,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 ## Microsoft Windows
 ### Human-Made
 * [3D Pinball Space Cadet - k4zmu2a](https://github.com/k4zmu2a/SpaceCadetPinball)
-* [Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR)
+* [Deus Ex: Human Revolution - rrika](https://github.com/rrika/cdcEngineDXHR)
 * [Lego Island - isledecomp](https://github.com/isledecomp/isle)
 * [Plants vs. Zombies - ruslan831](https://github.com/ruslan831/PlantsVsZombies-decompilation)
 * [ROBLOX (Nov. 2007) - RBLXDecomp](https://github.com/RBLXDecomp/RBXGSdecomp)
@@ -120,7 +119,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Various Sierra SCI games - EricOakford](https://github.com/EricOakford/SCI-Decompilation-Archive)
 ### AI-Made
 * [Various Namco System 22 games - spacestate1](https://github.com/spacestate1/namco22-decompile)
-
+-----
 # RECOMPILATIONS
 ## Sony PlayStation 1
 ### Human-Made
