@@ -1,5 +1,6 @@
 # LUNA'S DECOMPILATION LIST
 This is a list of videogame decomps, recomps & static recomps I could find.
+
 -----
 ### NOTES
 For accessibility, they are split into the following categories:
@@ -9,7 +10,7 @@ For accessibility, they are split into the following categories:
 Naming scheme: [GAME NAME] - [GITHUB AUTHOR]
 If I was wrong on something, feel free to make an issue/pull request!
 -----
-**TOTAL SO FAR: 70 (69 decomps/1 recomp, 67 human-made/3 ai-made, across 12 platforms**
+**TOTAL SO FAR: 70 (69 decomps/1 recomp, 67 human-made/3 ai-made, across 12 platforms**<br>
 **INSPIRED BY [SamidyFR's "Game Decompilations" repository](https://github.com/SamidyFR/Game-Decompilations)! SHOUTOUT TO THEM**
 -----
 # DECOMPILATIONS
