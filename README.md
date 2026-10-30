@@ -10,56 +10,78 @@ For accessibility, they are split into the following categories:
 Naming scheme: [GAME NAME] - [GITHUB AUTHOR]
 If I was wrong on something, feel free to make an issue/pull request!
 -----
-**TOTAL SO FAR: 70 (69 decomps/1 recomp, 67 human-made/3 ai-made, across 12 platforms**<br>
+**TOTAL SO FAR: 109 (108 decomps/1 recomp, 105 human-made/4 ai-made, across 12 platforms**<br>
+<br>
 **INSPIRED BY [SamidyFR's "Game Decompilations" repository](https://github.com/SamidyFR/Game-Decompilations)! SHOUTOUT TO THEM**
 -----
 # DECOMPILATIONS
 ## Nintendo 64
 ### Human-Made
 * [Animal Forest (N64) - zeldaret](https://github.com/zeldaret/af)
+* [Banjo-Kazooie - n64decomp](https://github.com/n64decomp/banjo-kazooie)
+* [Banjo-Tooie - Mr-Wiseguy](https://github.com/Mr-Wiseguy/banjo-tooie)
+* [Body Harvest - jaytheham](https://github.com/jaytheham/body-harvest-decompilation)
+* [Conker's Bad Fur Day - mkst](https://github.com/mkst/conker)
+* [Dinosaur Planet - zestydevy](https://github.com/zestydevy/dinosaur-planet)
+* [Duke Nukem: Zero Hour](https://github.com/Gillou68310/DukeNukemZeroHour)
 * [F-Zero X - inspectredc](https://github.com/inspectredc/fzerox)
 * [Harvest Moon 64 - harvestwhisperer](https://github.com/harvestwhisperer/hm64-decomp)
 * [Legend of Zelda, The: Majora's Mask - zeldaret](https://github.com/zeldaret/mm)
 * [Legend of Zelda, The: Ocarina of Time - zeldaret](https://github.com/zeldaret/oot)
 * [Mario Kart 64 - n64decomp](https://github.com/n64decomp/mk64)
+* [Mario Party 3 - mariopartyrd](https://github.com/mariopartyrd/marioparty3)
 * [Paper Mario - pmret](https://github.com/pmret/papermario)
+* [Paper Mario - RetroReversing](https://github.com/RetroReversing/PaperMarioDecompilation)
 * [Perfect Dark - n64decomp](https://github.com/n64decomp/perfect_dark)
 * [Pilotwings 64 - n64decomp](https://github.com/n64decomp/pw64)
 * [Pokémon Stadium - pret](https://github.com/pret/pokestadium)
+* [Pokémon Stadium 2 - pret](https://github.com/pret/pokestadiumgs)
 * [Starfox 64 - sonicdcer](https://github.com/sonicdcer/sf64)
 * [Super Mario 64 - n64decomp](https://github.com/n64decomp/sm64)
+* [Super Smash Bros. - VetriTheRetri](https://github.com/VetriTheRetri/ssb-decomp-re)
+* [Wave Race 64 - LLONSIT](https://github.com/LLONSIT/Wave-Race-64)
 ### AI-Made
 * [Snowboard Kids 2 - cdlewis](https://github.com/cdlewis/snowboardkids2-decomp)
 
 ## Nintendo DS
 ### Human-Made
+* [Legend of Zelda, The: Phantom Hourglass - zeldaret](https://github.com/zeldaret/ph)
 * [Pokémon Black - squiddonaut](https://github.com/squiddonaut/pokeblack)
 * [Pokémon Diamond/Pearl - pret](https://github.com/pret/pokediamond)
 * [Pokémon Heart-Gold/Soul-Silver - pret](https://github.com/pret/pokeheartgold)
 * [Pokémon Mystery Dungeon: Explorers of Sky - pret](https://github.com/pret/pmd-sky)
 * [Pokémon Platinum - pret](https://github.com/pret/pokeplatinum)
 ### AI-Made
+* [Pokémon Black 2/White 2 - fuddlesworth](https://github.com/fuddlesworth/pokebw2)
 * [Pokémon Heart-Gold/Soul-Silver - ctrl-cheeb-del (forked from pret)](https://github.com/ctrl-cheeb-del/pokeheartgold)
 
 ## Nintendo GameCube
 * [Animal Crossing (GC) - ACreTeam](https://github.com/ACreTeam/ac-decomp)
 * [Legend of Zelda, The: The Wind Waker - zeldaret](https://github.com/zeldaret/tww)
 * [Mario Kart: Double Dash!! - doldecomp](https://github.com/doldecomp/mkdd)
+* [Pikmin - projectPiki](https://github.com/projectPiki/pikmin)
+* [Pikmin 2 - projectPiki](https://github.com/projectPiki/pikmin2)
+* [Resident Evil 4 - adonis-singh](https://github.com/adonis-singh/re4)
 * [SpongeBob SquarePants: Battle for Bikini Bottom - bfbbdecomp](https://github.com/bfbbdecomp/bfbb)
+* [Super Mario Strikers - yannicksuter](https://github.com/yannicksuter/smstrikers-decomp)
+* [Super Mario Sunshine - doldecomp](https://github.com/doldecomp/sms)
 * [Super Smash Bros. Melee - doldecomp](https://github.com/doldecomp/melee)
 
 ## Nintendo GBA
 ### Human-Made
-* [Fire Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u)
-* [Legend of Zelda, The: The Minish Cap](https://github.com/zeldaret/tmc)
+* [Fire Emblem: The Sacred Stones - FireEmblemUniverse](https://github.com/FireEmblemUniverse/fireemblem8u)
+* [Kirby & The Amazing Mirror - jiangzhengwenjz](https://github.com/jiangzhengwenjz/katam)
+* [Legend of Zelda, The: The Minish Cap - zeldaret](https://github.com/zeldaret/tmc)
 * [Metroid Fusion - metroidret](https://github.com/metroidret/mf)
 * [Metroid: Zero Mission - metroidret](https://github.com/metroidret/mzm)
 * [Pokémon Emerald - Pokabbie](https://github.com/Pokabbie/pokeemerald-rogue)
 * [Pokémon Emerald - pret](https://github.com/pret/pokeemerald)
+* [Pokémon Emerald (JP) - pret](https://github.com/pret/pokeemerald-jp)
 * [Pokémon Fire-Red/Leaf-Green - pret](https://github.com/pret/pokefirered)
 * [Pokémon Mystery Dungeon: Red Rescue Team - pret](https://github.com/pret/pmd-red)
 * [Pokémon Ruby/Sapphire - pret](https://github.com/pret/pokeruby)
 * [Pokémon Pinball: Ruby/Sapphire - pret](https://github.com/pret/pokepinballrs)
+* [Sonic Advance 3 - SAT-R](https://github.com/SAT-R/sa3)
 
 ## Nintendo Switch
 ### Human-Made
@@ -70,7 +92,11 @@ If I was wrong on something, feel free to make an issue/pull request!
 ### Human-Made
 * [Legend of Zelda, The: Skyward Sword - zeldaret](https://github.com/zeldaret/ss)
 * [Mario Kart Wii - snailspeed3](https://github.com/snailspeed3/mkw)
+* [New Super Mario Bros. Wii - NSMBW-Community](https://github.com/NSMBW-Community/NSMBW-Decomp)
 * [Super Mario Galaxy - SMGCommunity](https://github.com/SMGCommunity/Petari)
+* [Super Mario Galaxy 2 - SMGCommunity](https://github.com/SMGCommunity/Garigari)
+* [Wii Menu - koopthekoopa](https://github.com/koopthekoopa/wii-ipl)
+* [Wii Sports - doldecomp](https://github.com/doldecomp/ogws)
 * [Xenoblade - xbret](https://github.com/xbret/xenoblade)
 
 ## Microsoft Windows
@@ -78,9 +104,14 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [3D Pinball Space Cadet - k4zmu2a](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [Deus Ex: Human Revolution - rrika](https://github.com/rrika/cdcEngineDXHR)
 * [Lego Island - isledecomp](https://github.com/isledecomp/isle)
+* [Lego Racers - isledecomp](https://github.com/isledecomp/racers)
 * [Plants vs. Zombies - ruslan831](https://github.com/ruslan831/PlantsVsZombies-decompilation)
 * [ROBLOX (Nov. 2007) - RBLXDecomp](https://github.com/RBLXDecomp/RBXGSdecomp)
 * [SkiFree - yuv422](https://github.com/yuv422/skifree_decomp)
+* [Star Wars Episode 1 Racer - tim-tim707](https://github.com/tim-tim707/SW_RACER_RE)
+* [Touhou: The Embodiment of Scarlet Devil - GensokyoClub](https://github.com/GensokyoClub/th06)
+* [Undertale Yellow - burnedpopcorn](https://github.com/burnedpopcorn/UnderTale-Yellow-Decompilation)
+* [Zuma Deluxe - alula](https://github.com/alula/CircleShootApp)
 
 ## Microsoft XBOX
 ### Human-Made
@@ -94,14 +125,20 @@ If I was wrong on something, feel free to make an issue/pull request!
 ## Sony PlayStation 1
 ### Human-Made
 * [Crash Team Racing - CTR-tools](https://github.com/CTR-tools/ctr-native)
+* [MediEvil - MediEvilDecompilation](https://github.com/MediEvilDecompilation/medievil-decomp)
 * [Silent Hill - shdecompilations](https://github.com/shdecompilations/silent-hill-decomp)
 * [Spyro the Dragon - TheMobyCollective](https://github.com/TheMobyCollective/spyro-1)
 * [Vagrant Story - ser-pounce](https://github.com/ser-pounce/rood-reverse)
 * [Vib-Ribbon - open-ribbon](https://github.com/open-ribbon/open-ribbon)
+* [Xenogears - ladysilverberg](https://github.com/ladysilverberg/xenogears-decomp)
 
 ## Sony PlayStation 2
 ### Human-Made
+* [Kingdom Hearts - ethteck](https://github.com/ethteck/kh1)
+* [PaRappa the Rapper 2 - parappadev](https://github.com/parappadev/parappa2)
+* [Silent Hill 3 - dreamingmoths](https://github.com/dreamingmoths/memory-of-alessa)
 * [Sly Cooper and the Thievius Racoonius - TheOnlyZac](https://github.com/TheOnlyZac/sly1)
+* [Street Fighter III: 3rd Strike - crowded-street](https://github.com/crowded-street/3s-decomp)
 
 ## Other/Multiplatform
 ### Human-Made
@@ -111,11 +148,14 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Cave Story - gameblabla](https://github.com/gameblabla/CSE2)
 * [Legend of Zelda, The: Twilight Princess - zeldaret](https://github.com/zeldaret/tp)
 * [Minecraft: Legacy Console Edition - GRAnimated](https://github.com/GRAnimated/MinecraftLCE)
+* [Need for Speed: Most Wanted - dbalatoni13](https://github.com/dbalatoni13/nfsmw)
+* [Sonic Advance 1 & 2 - SAT-R](https://github.com/SAT-R/sa2)
 * [Sonic Mania - RSDKModding](https://github.com/RSDKModding/Sonic-Mania-Decompilation)
 * [Retro Engine SDK (V2) - RSDKModding](https://github.com/RSDKModding/RSDKv2-Decompilation)
 * [Retro Engine SDK (V3) - RSDKModding](https://github.com/RSDKModding/RSDKv3-Decompilation)
 * [Retro Engine SDK (V4) - RSDKModding](https://github.com/RSDKModding/RSDKv4-Decompilation)
 * [Retro Engine SDK (V5) - RSDKModding](https://github.com/RSDKModding/RSDKv5-Decompilation)
+* [Retro Engine SDK (V5U) - thesupersonic16](https://github.com/thesupersonic16/RSDKv5u-Origins)
 * [Various SCUMM games - EricOakford](https://github.com/EricOakford/SCUMM-Decompilation-Archive)
 * [Various Sierra SCI games - EricOakford](https://github.com/EricOakford/SCI-Decompilation-Archive)
 ### AI-Made
