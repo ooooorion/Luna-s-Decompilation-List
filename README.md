@@ -15,7 +15,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 **INSPIRED BY [SamidyFR's "Game Decompilations" repository](https://github.com/SamidyFR/Game-Decompilations)! SHOUTOUT TO THEM**
 -----
 # DECOMPILATIONS
-<br>
+
 ## Microsoft Windows
 ### Human-Made
 * [3D Pinball Space Cadet - k4zmu2a](https://github.com/k4zmu2a/SpaceCadetPinball)
@@ -36,25 +36,25 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [ULTRAKILL Prelude - gabrieldj81](https://github.com/gabrieldj81/Ultrakill-Prelude-Decompilation)
 * [Undertale Yellow - burnedpopcorn](https://github.com/burnedpopcorn/UnderTale-Yellow-Decompilation)
 * [Zuma Deluxe - alula](https://github.com/alula/CircleShootApp)
-<br>
+
 ## Microsoft XBOX
 ### Human-Made
 * [Halo 1 - halo-re](https://github.com/halo-re/halo)
 * [Halo 1 - punpckhdq](https://github.com/punpckhdq/halo)
-<br>
+
 ## Microsoft XBOX 360
 ### Human-Made
 * [Dance Central 3 - rjkiv](https://github.com/rjkiv/dc3-decomp)
 * [Minecraft: Legacy Console Edition - LCERD](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation)
-<br>
+
 ## Microsoft XBOX One
 ### Human-Made
 * [Undertale (XBOX One) - kittibyte](https://github.com/kittibyte/UndertaleDecomp)
-<br>
+
 ## Nintendo 3DS
 ### Human-Made
 * [Super Mario 3D Land - 3dsdecomp](https://github.com/3dsdecomp/RedPepper)
-<br>
+
 ## Nintendo 64
 ### Human-Made
 * [Animal Forest (N64) - zeldaret](https://github.com/zeldaret/af)
@@ -89,7 +89,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Yoshi's Story - decompals](https://github.com/decompals/yoshis-story)
 ### AI-Made
 * [Snowboard Kids 2 - cdlewis](https://github.com/cdlewis/snowboardkids2-decomp)
-<br>
+
 ## Nintendo DS
 ### Human-Made
 * [Dragon Quest IX - DQIX](https://github.com/DQIX/dqix-decomp)
@@ -103,7 +103,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 ### AI-Made
 * [Pokémon Black 2/White 2 - fuddlesworth](https://github.com/fuddlesworth/pokebw2)
 * [Pokémon Heart-Gold/Soul-Silver - ctrl-cheeb-del (forked from pret)](https://github.com/ctrl-cheeb-del/pokeheartgold)
-<br>
+
 ## Nintendo GameCube
 * [Animal Crossing (GC) - ACreTeam](https://github.com/ACreTeam/ac-decomp)
 * [Legend of Zelda, The: The Wind Waker - zeldaret](https://github.com/zeldaret/tww)
@@ -115,7 +115,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Super Mario Strikers - yannicksuter](https://github.com/yannicksuter/smstrikers-decomp)
 * [Super Mario Sunshine - doldecomp](https://github.com/doldecomp/sms)
 * [Super Smash Bros. Melee - doldecomp](https://github.com/doldecomp/melee)
-<br>
+
 ## Nintendo GBA
 ### Human-Made
 * [Fire Emblem: The Sacred Stones - FireEmblemUniverse](https://github.com/FireEmblemUniverse/fireemblem8u)
@@ -133,13 +133,13 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Pokémon Ruby/Sapphire - pret](https://github.com/pret/pokeruby)
 * [Pokémon Pinball: Ruby/Sapphire - pret](https://github.com/pret/pokepinballrs)
 * [Sonic Advance 3 - SAT-R](https://github.com/SAT-R/sa3)
-<br>
+
 ## Nintendo Switch
 ### Human-Made
 * [Legend of Zelda, The: Breath of the Wild - zeldaret](https://github.com/zeldaret/botw)
 * [Lego City Undercover - Nintendocustom](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 * [Super Mario Odyssey - MonsterDruide1](https://github.com/MonsterDruide1/OdysseyDecomp)
-<br>
+
 ## Nintendo Wii
 ### Human-Made
 * [Legend of Zelda, The: Skyward Sword - zeldaret](https://github.com/zeldaret/ss)
@@ -154,7 +154,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Wii Menu - koopthekoopa](https://github.com/koopthekoopa/wii-ipl)
 * [Wii Sports - doldecomp](https://github.com/doldecomp/ogws)
 * [Xenoblade - xbret](https://github.com/xbret/xenoblade)
-<br>
+
 ## Sony PlayStation 1
 ### Human-Made
 * [Crash Team Racing - CTR-tools](https://github.com/CTR-tools/ctr-native)
@@ -164,7 +164,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Vagrant Story - ser-pounce](https://github.com/ser-pounce/rood-reverse)
 * [Vib-Ribbon - open-ribbon](https://github.com/open-ribbon/open-ribbon)
 * [Xenogears - ladysilverberg](https://github.com/ladysilverberg/xenogears-decomp)
-<br>
+
 ## Sony PlayStation 2
 ### Human-Made
 * [Fatal Frame 1 - Mikompilation](https://github.com/Mikompilation/Himuro)
@@ -177,11 +177,11 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Sly Cooper and the Thievius Racoonius - TheOnlyZac](https://github.com/TheOnlyZac/sly1)
 * [SSX 3 - ssxdecomp](https://github.com/ssxdecomp/ssx3)
 * [Street Fighter III: 3rd Strike - crowded-street](https://github.com/crowded-street/3s-decomp)
-<br>
+
 ## Super Nintendo Entertainment System
 ### Human-Made
 * [Earthbound - Herringway](https://github.com/Herringway/ebsrc)
-<br>
+
 ## Other/Multiplatform
 ### Human-Made
 ### Software Development Kits
