@@ -11,6 +11,7 @@ For accessibility, they are split into the following categories:
 Naming scheme: [GAME NAME] - [GITHUB AUTHOR]
 <br>
 If I was wrong on something, feel free to make an issue/pull request!
+
 -----
 **TOTAL SO FAR: 255 (221 human-made/34 ai-made, across ~26 platforms**<br>
 <br>
