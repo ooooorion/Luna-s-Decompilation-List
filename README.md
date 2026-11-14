@@ -13,7 +13,7 @@ Naming scheme: [GAME NAME] - [GITHUB AUTHOR]
 If I was wrong on something, feel free to make an issue/pull request!
 
 -----
-**TOTAL SO FAR: 255 (221 human-made/34 ai-made, across ~26 platforms**<br>
+**TOTAL SO FAR: 266 (225 human-made/41 ai-made, across ~26 platforms**<br>
 <br>
 **INSPIRED BY [SamidyFR's "Game Decompilations" repository](https://github.com/SamidyFR/Game-Decompilations)! SHOUTOUT TO THEM**
 <br>
@@ -122,6 +122,7 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [F-Zero X - BttrDrgn](https://github.com/BttrDrgn/f-zerox)
 * [F-Zero X - inspectredc](https://github.com/inspectredc/fzerox)
 * [Gex 64 - MatBourgon](https://github.com/MatBourgon/Gex64Decomp)
+* [Goldeneye 007 - GoldenEyeVault](https://github.com/GoldenEyeVault/goldeneye007_decomp)
 * [Goldeneye 007 - n64decomp](https://github.com/n64decomp/007)
 * [Harvest Moon 64 - harvestwhisperer](https://github.com/harvestwhisperer/hm64-decomp)
 * [ISS 2000 - Icegod895](https://github.com/Icegod895/ISS2000Decomp)
@@ -145,6 +146,8 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Quest 64 - Mallos31](https://github.com/Mallos31/Quest)
 * [Shiren the Wanderer 2 - mschienbien](https://github.com/mschienbein/shiren2-decomp)
 * [Snowboard Kids - cdlewis](https://github.com/cdlewis/snowboardkids-decomp)
+* [South Park - AaronHWZ](https://github.com/AaronHWZ/South-Park-64-Decomp)
+* [South Park - toastcrunch0916](https://github.com/toastcrunch0916/South-Park-N64-Decompiled)
 * [Space Station Silicon Valley - mkst](https://github.com/mkst/sssv)
 * [Starfox 64 - sonicdcer](https://github.com/sonicdcer/sf64)
 * [Super Mario 64 - n64decomp](https://github.com/n64decomp/sm64)
@@ -155,16 +158,23 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Yoshi's Story - decompals](https://github.com/decompals/yoshis-story)
 ### AI-Made
 * [Conker's Bad Fur Day - DevOldSchool](https://github.com/DevOldSchool/conkers-bfd-decomp)
+* [Goemon's Great Adventure - PandaPandel](https://github.com/PandaPandel/Goemons-Great-Adventure-Decomp)
 * [Hey You, Pikachu! - ornata](https://github.com/ornata/hey-you-pikachu-decomp)
+* [Hot Wheels: Turbo Racing - orymizak](https://github.com/orymizak/hwtr-decomp)
 * [Hybrid Heaven - ogdanimal](https://github.com/ogdanimal/HybridHeaven-Decomp)
 * [Monopoly - IvanOrtega123](https://github.com/IvanOrtega123/Monopoly-N64-Decomp/)
 * [Neon Genesis Evangelion - thebardockgames](https://github.com/thebardockgames/EVA-Decomp)
+* [Resident Evil II - alemigav](https://github.com/alemigav/re2-64-decomp)
+* [Resident Evil II - delibrete](https://github.com/delibrete/Resident-Evil-II-Decompilation-N64)
+* [San Francisco Rush 2049 - cabi24](https://github.com/cabi24/SFRush2049-n64-decomp)
 * [San Francisco Rush 2049 - RemakerGamee](https://github.com/RemakerGamee/SFRush2049-decomp)
 * [Snowboard Kids 2 - cdlewis](https://github.com/cdlewis/snowboardkids2-decomp)
+* [South Park - RetroReversing](https://github.com/RetroReversing/south-park-decomp)
 * [Super Bowling 64 - CalenCyr](https://github.com/CalenCyr/superbowling64-decomp)
 * [Turok: Dinosaur Hunter - RetroReversing](https://github.com/RetroReversing/turok-decomp)
 * [Turok: Rage Wars - JohnSams165](https://github.com/JohnSams165/Turok-Rage-Wars-Decomp)
 * [Turok 2: Seeds of Evil - mgrz18](https://github.com/mgrz18/turok2-decomp)
+* [V-Rally Edition 99 - RetroReversing](https://github.com/RetroReversing/v-rally-decomp)
 
 ## Nintendo DS
 ### Human-Made
@@ -339,5 +349,6 @@ If I was wrong on something, feel free to make an issue/pull request!
 * [Various Sierra SCI games - EricOakford](https://github.com/EricOakford/SCI-Decompilation-Archive)
 ### AI-Made
 * [AfterShock's OGXB Titles](https://github.com/desukuran/aftershock-decomp)
+* [Aki/THQ N64 Wrestling Games](https://github.com/and0p/aki_n64_decomp)
 * [Splatterhouse 1, 2 & 3 - indieindie7](https://github.com/indieindie7/splatterhouse-decomp)
 * [Various Namco System 22 games - spacestate1](https://github.com/spacestate1/namco22-decompile)
